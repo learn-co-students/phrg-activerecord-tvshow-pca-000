@@ -6,3 +6,5 @@ languages:
   - Ruby
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/activerecord-tvshow.git

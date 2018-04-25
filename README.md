@@ -59,6 +59,4 @@ You'll be defining the following methods:
 * `#popular_shows`: returns an array of all of the shows that have a rating greater than `5`. *hint*: use the `#where` Active Record method.
 * `#shows_by_alphabetical_order`: returns an array of all of the shows sorted by alphabetical order according to their names. *hint*: use the `#order` Active Record method.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/activerecord-tvshow' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-tvshow'>Advanced Finding Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Objectives</p>
