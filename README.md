@@ -59,4 +59,7 @@ You'll be defining the following methods:
 * `#popular_shows`: returns an array of all of the shows that have a rating greater than `5`. *hint*: use the `#where` Active Record method.
 * `#shows_by_alphabetical_order`: returns an array of all of the shows sorted by alphabetical order according to their names. *hint*: use the `#order` Active Record method.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-activerecord-tvshow/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-activerecord-tvshow/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Objectives</p>
